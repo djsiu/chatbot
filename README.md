@@ -1,15 +1,15 @@
-# chatbot
-This is a chatbot created for the course CMPT125 - Introduction to Compunting Science and Programming II
-by Denise Siu
+# ChatBot
+This is a chatbot that was created for the course CMPT125 - Introduction to Compunting Science and Programming II
+by Denise Siu.
 
 ### Instructions
 
-This program can be run from the terminal. First insure you are in the correct directory.
+This program can be run from the terminal. First you will need to download these files and insure you are in the correct directory from your terminal.<br>
 Then type in these commands : <br>
-$ g++ -o chatbot hatbot_driver.cpp
+$ g++ -o chatbot chatbot_driver.cpp <br>
 $ g++ ./chatbot
 
-### Chatbot Description
+### Description
 
 This chatbot can have small, simple converstations with you. It will look for keywords within the user's input and respond accordingly. If it doesn't find a keyword that matches the user's input it will respond with a generic response. The user can also ask the same thing over and over and the bot will respond in one of three different ways. Additionally, if you tell the bot your name, the bot will remember your name and respond with it later on! <br>
 
