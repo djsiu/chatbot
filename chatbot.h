@@ -2,10 +2,9 @@
 //
 // CMPT125 assignment 4 - chatbot
 //
-// see the file "chatbot_description.txt" to see the features of this bot :)
+// this file can be run through the file chatbot_driver.cpp
 //
 // created by Denise Siu
-// student no 301403268
 // created in july 2020
 
 
