@@ -4,8 +4,8 @@ by Denise Siu.
 
 ### Instructions
 
-This program can be run from the terminal. First you will need to download these files and insure you are in the correct directory from your terminal.<br>
-Then type in these commands : <br>
+This program can be run from the terminal. First you will need to download these files and insure you are in the correct directory.<br>
+Then type in these commands : <br><br> 
 $ g++ -o chatbot chatbot_driver.cpp <br>
 $ g++ ./chatbot
 
